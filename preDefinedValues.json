@@ -1,0 +1,12 @@
+{
+  "name": "Aman",
+  "email": "Vishal@example.com",
+  "password": "456789",
+  "gender": "female",
+  "shipmentInfo": {
+    "billingAddress": "402, Sector 19, Noida, Uttar Pradesh, Bhutan",
+    "pincode": "713386",
+    "lastOrderShippedOn": "January 10, 2024",
+    "redeemCard": "hello"
+  }
+}
